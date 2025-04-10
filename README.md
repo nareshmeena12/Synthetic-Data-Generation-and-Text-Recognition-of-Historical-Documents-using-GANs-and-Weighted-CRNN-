@@ -19,7 +19,7 @@ This project combines a CRNN-based Optical Character Recognition (OCR) system wi
 
 ## 📊 Results
 
-| Model           | Decoder            | CER    | Char Acc | WER    | Word Acc |
+| Model           | Decoder            | CER    | Char Accuracy | WER    | Word Accuracy |
 |----------------|--------------------|--------|----------|--------|----------|
 | CRNN            | Greedy Decoding     | 0.0025 | 99.51%   | 0.0049 | 99.52%   |
 | Weighted CRNN   | Greedy Decoding     | 0.0097 | 98.29%   | 0.0169 | 98.33%   |
